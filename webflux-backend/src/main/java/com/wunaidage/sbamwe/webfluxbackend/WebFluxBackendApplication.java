@@ -1,4 +1,4 @@
-package com.wunaidage.sbamwe.webflux.backend;
+package com.wunaidage.sbamwe.webfluxbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

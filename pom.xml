@@ -12,5 +12,6 @@
     <modules>
         <module>frontend</module>
         <module>webflux-backend</module>
+        <module>mvc-backend</module>
     </modules>
 </project>
