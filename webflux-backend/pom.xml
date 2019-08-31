@@ -8,10 +8,10 @@
         <version>2.1.7.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.wunaidage.sbamwe.webflux</groupId>
-    <artifactId>backend</artifactId>
+    <groupId>com.wunaidage.sbamwe</groupId>
+    <artifactId>webflux-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>backend</name>
+    <name>webflux-backend</name>
     <description>Demo project for Spring Boot Angular Minimal Working Example Webflux Backend</description>
 
     <properties>
