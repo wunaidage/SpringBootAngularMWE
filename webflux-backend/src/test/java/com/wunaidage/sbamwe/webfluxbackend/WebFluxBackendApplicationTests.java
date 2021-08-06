@@ -1,4 +1,4 @@
-package com.wunaidage.sbamwe.webflux.backend;
+package com.wunaidage.sbamwe.webfluxbackend;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
