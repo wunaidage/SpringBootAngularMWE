@@ -1,7 +1,7 @@
 {
   "name": "yarn",
   "installationMethod": "tar",
-  "version": "1.17.3",
+  "version": "1.22.5",
   "license": "BSD-2-Clause",
   "preferGlobal": true,
   "description": "📦🐈 Fast, reliable, and secure dependency management.",
@@ -13,8 +13,8 @@
   },
   "repository": "yarnpkg/yarn",
   "bin": {
-    "yarn": "bin/yarn.js",
-    "yarnpkg": "bin/yarn.js"
+    "yarn": "./bin/yarn.js",
+    "yarnpkg": "./bin/yarn.js"
   },
   "config": {
     "commitizen": {
