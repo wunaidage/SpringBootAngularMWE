@@ -5,11 +5,11 @@
   <parent>
     <groupId>com.wunaidage</groupId>
     <artifactId>sbamwe</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.wunaidage.sbamwe</groupId>
   <artifactId>frontend</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.0-SNAPSHOT</version>
   <name>frontend</name>
   <description>Demo project for Spring Boot Angular Minimal Working Example Angular Frontend</description>
 
@@ -26,14 +26,14 @@
         <version>1.8.0</version>
         <executions>
         <execution>
-          <id>install node and npm</id>
+          <id>install node and yarn</id>
           <goals>
             <goal>install-node-and-yarn</goal>
           </goals>
           <configuration>
             <!-- See https://nodejs.org/en/download/ for latest node and npm (lts) versions -->
-            <nodeVersion>v10.16.3</nodeVersion>
-            <yarnVersion>v1.17.3</yarnVersion>
+            <nodeVersion>v14.17.4</nodeVersion>
+            <yarnVersion>v1.22.5</yarnVersion>
           </configuration>
         </execution>
 
